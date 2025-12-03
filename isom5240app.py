@@ -1,4 +1,4 @@
-from transformers import pipeline
+from transformers import st
 from PIL import Image
 import os
 
